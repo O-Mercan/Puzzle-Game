@@ -22,7 +22,3 @@ Kare Puzzle Oyunu, kullanıcıların resimleri karıştırıp yeniden doğru sı
 ## Bağımlılıklar ve Kurulum
 
 Bu projede Java ve Swing kütüphanesi kullanılmıştır. Projeyi çalıştırmak için Java'nın kurulu olduğundan emin olun.
-
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
