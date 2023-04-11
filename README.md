@@ -1,5 +1,3 @@
-# Puzzle-Game
-
 # Kare Puzzle Oyunu
 
 Kare Puzzle Oyunu, kullanıcıların resimleri karıştırıp yeniden doğru sırayla yerleştirmeye çalıştığı eğlenceli ve zorlu bir bulmaca oyunudur.
@@ -24,3 +22,4 @@ Kare Puzzle Oyunu, kullanıcıların resimleri karıştırıp yeniden doğru sı
 ## Bağımlılıklar ve Kurulum
 
 Bu projede Java ve Swing kütüphanesi kullanılmıştır. Projeyi çalıştırmak için Java'nın kurulu olduğundan emin olun.
+
